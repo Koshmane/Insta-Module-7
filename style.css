@@ -1,0 +1,182 @@
+/* section one */
+#one {
+    width: 20%;
+    height: 650px;
+    background-color: whitesmoke;
+    display: inline-block;
+    float: left;
+} 
+
+.one-nav {
+    margin: 20px 0 ;
+}
+
+h3 {
+    display: inline-block;
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: medium;
+}
+
+.material-symbols-outlined {
+    display: inline-block;
+}
+
+.profile-image {
+    width: 30px;
+    border-radius: 100%;
+}
+
+/* section two */
+
+#two {
+    width: 40%;
+    height: 150px;
+    background-color: whitesmoke;
+    display: inline-block;
+    margin-left: 80px;
+    margin-top: 20px;
+    border-radius: 15px;
+    float: left;
+}
+
+.two-div {
+    display: inline-block;
+    margin-left: 8px;
+    margin-top: 20px;
+}
+
+.two-image {
+    width: 50px;
+    border-radius: 100%;
+    margin-left: 10px;
+}
+
+/* section three */
+
+#three {
+    width: 40%;
+    height: 700px;
+    background-color: whitesmoke;
+    display: inline-block;
+    margin-left: 80px;
+    margin-top: 20px;
+    border-radius: 15px;
+    float: left;
+}
+
+.lib {
+    width: 100%;
+    height: 70px;
+}
+
+.lib-image {
+    width: 30px;
+    border-radius: 100%;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.lin {
+    display: inline-block;
+    margin-left: 20px;
+    margin: 0 10px 530px 20px;
+
+}
+
+.lib .material-symbols-outlined {
+    float: right;
+    margin-right: 10px;
+    margin-top: 25px;
+}
+
+.three-image {
+    width: 533px;
+    height: 650px;
+}
+
+/* section four */
+
+#four {
+    width: 30%;
+    height: 650px;
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 20px;
+    position: absolute;
+    float: right;
+}
+
+.four-one {
+    width: 100%;
+    height: 80px;
+}
+
+.image-one {
+    width: 35px;
+    margin: 20px 20px 0 20px;
+    border-radius: 100%;
+}
+
+.fourone-top {
+    display: inline-block;
+    margin-bottom: 40px;
+}
+
+.one-h5 {
+    margin: 0;
+    font-size: medium;
+}
+
+.one-p {
+    margin: 0;
+    color: rgb(145, 145, 145);
+}
+
+.blue {
+    float: right;
+    color: blue;
+    margin-right: 20px;
+    margin-top: 35px;
+}
+
+.sugg {
+    display: inline-block;
+    color: rgb(145, 145, 145);
+    margin-left: 20px;
+}
+
+.see {
+    display: inline-block;
+    float: right;
+    margin-right: 20px;
+    color: grey;
+}
+
+.image-two {
+    width: 30px;
+    border-radius: 100%;
+    margin: 20px 10px 0 20px;
+}
+
+.four-two {
+    width: 100%;
+    height: 80px;
+}
+
+.fourtwo-top {
+    display: inline-block;
+    margin-bottom: 40px;
+}
+
+.two-h5 {
+    margin: 0;
+    font-size: medium;
+}
+
+.two-p {
+    margin: 0;
+    color: rgb(145, 145, 145);
+}
